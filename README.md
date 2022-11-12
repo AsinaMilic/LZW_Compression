@@ -1,7 +1,7 @@
 # LZW_Compression
 This is a desktop application which uses lzw compression algorithm.
 You can see encoded and decoded files (Text, image.png and PDF).
-Everything is implemented in python at LZW_Compression.py, algorithms and tkinter framework for GUI. Because of that, perfomance could suffer :/
+Everything is implemented in python at LZW_Compression.py, algorithms and tkinter framework for GUI. Because of that, library could suffer :/
 
 Please use small files <3
 
